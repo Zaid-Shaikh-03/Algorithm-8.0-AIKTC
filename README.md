@@ -1,1 +1,1 @@
-#Algorithm 8.0 AIKTC
+# AIKTC Algorithm 8.0 Landing Page
